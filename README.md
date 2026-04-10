@@ -313,10 +313,10 @@ The jump from 71% to 85% collection rate between 2023 and 2024 is significant. B
 
 ## Conclusion
 
-This analysis of BrightGrid Utilities Ltd's billing and payment data reveals a utility operation experiencing strong revenue growth from £3.46M in 2022 to £4.43M in 2024 — alongside a meaningful improvement in collections efficiency that deserves recognition.
+This analysis of BrightGrid Utilities Ltd's billing and payment data reveals a utility operation experiencing strong revenue growth from £3.46M in 2022 to £4.43M in 2024 alongside a meaningful improvement in collections efficiency that deserves recognition.
 
 The most significant story in the data is the **2023 collections crisis and the 2024 recovery**. In 2023 the revenue gap peaked at £1.04M and collection rate dropped to 71%, the worst performance in the three-year period. By 2024 this had reversed dramatically to an 85% collection rate and only £655K gap. Understanding what drove this turnaround is as important as addressing remaining weaknesses.
 
-Water utility emerges as an unexpected concern — despite lower billing volumes, it has the lowest collection rate (76%) of all three utility types. Gas generates the largest absolute revenue gap. Edinburgh Residential is the single worst-performing customer segment in 2024. These three findings should be prioritised in the next operational planning cycle.
+Water utility emerges as an unexpected concern despite lower billing volumes, it has the lowest collection rate (76%) of all three utility types. Gas generates the largest absolute revenue gap. Edinburgh Residential is the single worst-performing customer segment in 2024. These three findings should be prioritised in the next operational planning cycle.
 
 The interactive dashboard provides BrightGrid's leadership with a powerful tool to monitor these metrics in real time filtering by year, region, utility type, account type, and payment status to identify emerging problems before they escalate. Combined with the recommendations in this report, BrightGrid is well positioned to close the remaining revenue gap, improve payment timeliness, and deliver consistent service across all eight regions.
