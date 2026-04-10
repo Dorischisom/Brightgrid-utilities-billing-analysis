@@ -152,7 +152,7 @@ A calculated column `payment_flag` was added to categorise each payment record:
 
 ### 2. Which Region Consumes the Most Energy?
 
-![Regional Energy Consumption](b/b.png)
+![Regional Energy Consumption](h/h.png)
 
 - Leeds is the highest consuming region with **33,642 total units**; 37% more than Birmingham which ranks last
 - London has the highest average consumption per bill **(257.59 units)** despite ranking 5th overall, indicating fewer but heavier-consuming customers
@@ -164,14 +164,14 @@ A calculated column `payment_flag` was added to categorise each payment record:
 
 **By Region:**
 
-![Late Payment by Region](c/c.png)
+![Late Payment by Region](g/g.png)
 
 - Birmingham customers pay the latest on average **24.5 days** after the due date
 - London customers are the most prompt but still average **18.4 days late** no region pays on time
 
 **By Account Type:**
 
-![Late Payment by Account Type](d/d.png)
+![Late Payment by Account Type](f/f.png)
 
 - Residential customers are the worst payers across all account types, averaging **21.9 days late**
 
@@ -183,7 +183,7 @@ A calculated column `payment_flag` was added to categorise each payment record:
 
 **By Customer:**
 
-![Late Payment by Customer](f/f.png)
+![Late Payment by Customer](d/d.png)
 
 - William Taylor (Birmingham) and Poppy Walker (Manchester) are the most consistently late individual customers
 
@@ -191,7 +191,10 @@ A calculated column `payment_flag` was added to categorise each payment record:
 
 ### 4. What Drives High Billing Costs?
 
-![Billing Cost Drivers](g/g.png)
+![Billing Cost Drivers](c/c.png)
+
+![Billing Cost Drivers](b/b.png)
+
 
 - High consumption is the primary driver of high billing costs when combined with a high unit rate, bills average over **£25,000**
 - Gas has the highest average bill **(£12,014)** despite lower consumption than Electricity driven by a higher unit rate (£0.496)
