@@ -205,7 +205,7 @@ A calculated column `payment_flag` was added to categorise each payment record:
 
 ### 5. Revenue Gap: Billed vs Collected
 
-![Revenue Gap](h/h.png)
+![Revenue Gap](a/a.png)
 
 - Edinburgh Gas 2023 has the worst collection rate only **29.5p collected for every £1 billed**
 - Leeds Water 2023 is the most alarming a **91.83% revenue gap** meaning only 8p collected per £1 billed
